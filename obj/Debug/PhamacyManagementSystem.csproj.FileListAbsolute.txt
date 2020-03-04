@@ -1,0 +1,14 @@
+C:\Users\victo\source\repos\PhamacyManagementSystem\bin\Debug\PhamacyManagementSystem.exe.config
+C:\Users\victo\source\repos\PhamacyManagementSystem\bin\Debug\PhamacyManagementSystem.exe
+C:\Users\victo\source\repos\PhamacyManagementSystem\bin\Debug\PhamacyManagementSystem.pdb
+C:\Users\victo\source\repos\PhamacyManagementSystem\obj\Debug\PhamacyManagementSystem.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\PhamacyManagementSystem\obj\Debug\PhamacyManagementSystem.Form1.resources
+C:\Users\victo\source\repos\PhamacyManagementSystem\obj\Debug\PhamacyManagementSystem.doctor.resources
+C:\Users\victo\source\repos\PhamacyManagementSystem\obj\Debug\PhamacyManagementSystem.gpappointment.resources
+C:\Users\victo\source\repos\PhamacyManagementSystem\obj\Debug\PhamacyManagementSystem.patient.resources
+C:\Users\victo\source\repos\PhamacyManagementSystem\obj\Debug\PhamacyManagementSystem.payment.resources
+C:\Users\victo\source\repos\PhamacyManagementSystem\obj\Debug\PhamacyManagementSystem.pharmacy.resources
+C:\Users\victo\source\repos\PhamacyManagementSystem\obj\Debug\PhamacyManagementSystem.Properties.Resources.resources
+C:\Users\victo\source\repos\PhamacyManagementSystem\obj\Debug\PhamacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\PhamacyManagementSystem\obj\Debug\PhamacyManagementSystem.exe
+C:\Users\victo\source\repos\PhamacyManagementSystem\obj\Debug\PhamacyManagementSystem.pdb
